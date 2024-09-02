@@ -14,7 +14,7 @@
 ## Links
 
 Solution URL: (https://github.com/ricardosibu/card-component-challenge)
-Live Site URL: (https://66ba82db8742a4316dd6ae48--shiny-haupia-afdaa3.netlify.app/)
+Live Site URL: (https://card-component-challenge-fm.netlify.app/)
  
 
 
